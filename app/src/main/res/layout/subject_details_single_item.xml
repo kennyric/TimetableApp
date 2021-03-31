@@ -1,0 +1,39 @@
+<androidx.cardview.widget.CardView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:elevation='4dp'
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/textViewSubjectTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Title"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1sp"
+            android:background="@color/colorPrimaryDark"
+            android:layout_below="@+id/textViewSubjectTitle"
+            android:id="@+id/line"/>
+
+        <TextView
+            android:id="@+id/textViewSyllabus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/line"
+            android:layout_marginLeft="8dp"
+            android:text="Syllabus"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

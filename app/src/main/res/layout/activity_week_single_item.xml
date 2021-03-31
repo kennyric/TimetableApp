@@ -1,0 +1,30 @@
+<androidx.cardview.widget.CardView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:elevation='4dp'
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.example.assignment1.Utils.LetterImageViews
+            android:id="@+id/ImageViewLetter"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="12dp" />
+
+        <TextView
+            android:id="@+id/Timetable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@id/ImageViewLetter"
+            android:text="Days"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

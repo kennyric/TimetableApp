@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subject </item>
+        <item> Faculty </item>
+        <item> Navigate to Campus </item>
+    </string-array>
+
+    <string-array name="Description">
+        <item> View classes schedule and location </item>
+        <item> View Subject syllabus</item>
+        <item> View faculties </item>
+        <item> Navigate to selected campus location </item>
+    </string-array>
+
+    <string-array name="Week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item> Operating System </item>
+        <item> Java Programming </item>
+        <item> Research methods </item>
+        <item> Business Modelling </item>
+        <item> Visual Basic </item>
+        <item> No Class </item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item> Visual Basic .Net </item>
+        <item> Database Management System</item>
+        <item> No Class </item>
+        <item> Discrete Mathematics </item>
+        <item> Pengajian Malaysia </item>
+        <item> Tamadun Islam dan Tamadun Asia </item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item> No Class </item>
+        <item> Java Web Programming </item>
+        <item> Introduction to Human Computer Interaction </item>
+        <item> No Class </item>
+        <item> Discrete Maths </item>
+        <item> No Class </item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item> Visual Basic .Net </item>
+        <item> Introduction to Internet Technology </item>
+        <item> Java Web Programming </item>
+        <item> Discrete Mathematics </item>
+        <item> Business Modelling </item>
+        <item> Introduction to Human Computer Interaction </item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item> Pengajian Malaysia </item>
+        <item> No Class </item>
+        <item> No Class </item>
+        <item> Visual Basic .Net </item>
+        <item> Tamadun Islam dan Tamadun Asia </item>
+        <item> No Class </item>
+    </string-array>
+
+    <string-array name="Saturday">
+        <item> Pengajian Malaysia </item>
+        <item> No Class </item>
+        <item> No Class </item>
+        <item> Java Web Programming </item>
+        <item> No Class </item>
+        <item> Tamadun Islam dan Tamadun Asia </item>
+    </string-array>
+
+    <string-array name="time1">
+        <item> 8:00AM - 9:30AM </item>
+        <item> 9:30AM - 11:00AM </item>
+        <item> 11:00AM - 12:30PM </item>
+        <item> 12:30PM - 2:00PM </item>
+        <item> 2:00PM - 3:30PM </item>
+        <item> 3:30PM - 5:00PM </item>
+    </string-array>
+
+    <string-array name="time2">
+        <item> 8:00AM - 9:30AM </item>
+        <item> 9:30AM - 11:00AM </item>
+        <item> 11:00AM - 12:30PM </item>
+        <item> 12:30PM - 2:00PM </item>
+        <item> 2:00PM - 3:30PM </item>
+        <item> 3:30PM - 5:00PM </item>
+    </string-array>
+
+    <string-array name="time3">
+        <item> 8:00AM - 9:30AM </item>
+        <item> 9:30AM - 11:00AM </item>
+        <item> 11:00AM - 12:30PM </item>
+        <item> 12:30PM - 2:00PM </item>
+        <item> 2:00PM - 3:30PM </item>
+        <item> 3:30PM - 5:00PM </item>
+    </string-array>
+
+    <string-array name="time4">
+        <item> 8:00AM - 9:30AM </item>
+        <item> 9:30AM - 11:00AM </item>
+        <item> 11:00AM - 12:30PM </item>
+        <item> 12:30PM - 2:00PM </item>
+        <item> 2:00PM - 3:30PM </item>
+        <item> 3:30PM - 5:00PM </item>
+    </string-array>
+
+    <string-array name="time5">
+        <item> 8:00AM - 9:30AM </item>
+        <item> 9:30AM - 11:00AM </item>
+        <item> 11:00AM - 12:30PM </item>
+        <item> 1:00PM - 2:30PM </item>
+        <item> 2:30PM - 4:00PM </item>
+        <item> 4:00PM - 5:30PM </item>
+    </string-array>
+
+    <string-array name="time6">
+        <item> 8:00AM - 9:30AM </item>
+        <item> 9:30AM - 11:00AM </item>
+        <item> 11:00AM - 12:30PM </item>
+        <item> 12:30PM - 2:00PM </item>
+        <item> 2:00PM - 3:30PM </item>
+        <item> 3:30PM - 5:00PM </item>
+    </string-array>
+
+    <string-array name="Subjects">
+        <item> Java Programming </item>
+        <item> Research methods </item>
+        <item> Business Modelling </item>
+        <item> Visual Basic </item>
+        <item> Database Management System</item>
+        <item> Discrete Mathematics </item>
+        <item> Pengajian Malaysia </item>
+        <item> Tamadun Islam dan Tamadun Asia </item>
+        <item> Java Web Programming </item>
+        <item> Introduction to Human Computer Interaction </item>
+        <item> Introduction to Internet Technology </item>
+        <item> Business Modelling </item>
+        <item> Introduction to Human Computer Interaction </item>
+    </string-array>
+
+    <string-array name="JavaProgramming">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="ResearchMethods">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="BusinessModelling">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="VisualBasic">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="DatabaseManagementSystem">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="DiscreteMathematics">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="PengajianMalaysia">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="TamadunIslamDanTamadunAsia">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="JavaWebProgramming">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="IntroductiontoHumanComputerInteraction">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="IntroductiontoInternetTechnology">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="IntroductionToHumanComputerInteraction">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis facilisis nulla. Donec posuere magna neque, sed vehicula ex fermentum vel. Donec eu consequat purus. Quisque consectetur sagittis lacus, ut tincidunt diam scelerisque non. Vivamus rutrum imperdiet elit non tincidunt. In rhoncus lorem ante, sed auctor nulla hendrerit sit amet. Ut porta justo eu turpis aliquam, eu auctor neque posuere. Donec ornare, dui id ultrices fringilla, magna tortor malesuada eros, maximus scelerisque tellus erat eget nisi. Phasellus iaculis leo ut risus vestibulum, sed mattis magna sollicitudin. Donec posuere diam vel erat ultrices, in pellentesque lorem faucibus.</item>
+        <item>Nullam vulputate purus eu posuere scelerisque. In interdum justo et orci tempus, sit amet dictum arcu dictum. Phasellus sodales sed sem non vehicula. Donec sed dolor ac nibh ultricies eleifend. Integer porttitor ut arcu ut varius. Aenean sagittis egestas tellus id laoreet. Pellentesque ut fermentum lectus. Nunc lacinia augue neque, sit amet bibendum urna porttitor sed. In at ex velit. Nulla facilisi. Cras eu elit quis sem gravida blandit vel sed metus. Suspendisse potenti. Mauris id mauris ligula.</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Introduction</item>
+        <item>Syllabus</item>
+    </string-array>
+
+    <string-array name="faculty_name">
+        <item>FOBIS</item>
+        <item>School of IT</item>
+    </string-array>
+
+    <string-array name="faculty1">
+        <item>8310294820</item>
+        <item>1000002@gmail.com</item>
+        <item>UCSI Block G</item>
+    </string-array>
+
+    <string-array name="faculty2">
+        <item>123410223420</item>
+        <item>1000005@gmail.com</item>
+        <item>UCSI Block G</item>
+    </string-array>
+</resources>
